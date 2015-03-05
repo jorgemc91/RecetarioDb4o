@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Recetario</string>
+    <string name="action_ajustes">Ajustes</string>
+    <string name="action_anadir">Añadir</string>
+    <string name="borrar">¿Borrar definitivamente?</string>
+    <string name="anadir">Añadir receta</string>
+    <string name="action_borrar">Borrar</string>
+    <string name="action_modificar">Modificar</string>
+    <string name="editar">Editar Receta</string>
+
+</resources>

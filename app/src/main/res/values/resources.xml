@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos">
+        <item>Entrante</item>
+        <item>Plato</item>
+        <item>Postre</item>
+    </string-array>
+</resources>
